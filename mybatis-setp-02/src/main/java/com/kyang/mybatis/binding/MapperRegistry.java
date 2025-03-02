@@ -1,7 +1,7 @@
 package com.kyang.mybatis.binding;
 
 import cn.hutool.core.lang.ClassScanner;
-import com.kyang.mybatis.session.SqlSession;
+import com.kyang.mybatis.SqlSession;
 
 import java.util.HashMap;
 import java.util.Map;

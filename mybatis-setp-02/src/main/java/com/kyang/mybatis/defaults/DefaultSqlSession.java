@@ -1,7 +1,7 @@
-package com.kyang.mybatis.session.defaults;
+package com.kyang.mybatis.defaults;
 
 import com.kyang.mybatis.binding.MapperRegistry;
-import com.kyang.mybatis.session.SqlSession;
+import com.kyang.mybatis.SqlSession;
 
 /**
  * @ Author：wqy

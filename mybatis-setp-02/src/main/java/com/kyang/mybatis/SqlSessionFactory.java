@@ -1,4 +1,4 @@
-package com.kyang.mybatis.session;
+package com.kyang.mybatis;
 
 /**
  * @ Author：wqy

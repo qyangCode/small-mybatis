@@ -11,6 +11,7 @@
     <modules>
         <module>mybatis-setp-01</module>
         <module>mybatis-setp-02</module>
+        <module>mybatis-setp-03</module>
     </modules>
 
     <properties>

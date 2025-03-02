@@ -1,9 +1,8 @@
 package com.kyang.mybatis.binding;
 
-import com.kyang.mybatis.session.SqlSession;
+import com.kyang.mybatis.SqlSession;
 
 import java.lang.reflect.Proxy;
-import java.util.Map;
 
 /**
  * @ Author：wqy

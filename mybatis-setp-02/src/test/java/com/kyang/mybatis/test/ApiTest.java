@@ -2,9 +2,9 @@ package com.kyang.mybatis.test;
 
 
 import com.kyang.mybatis.binding.MapperRegistry;
-import com.kyang.mybatis.session.SqlSession;
-import com.kyang.mybatis.session.SqlSessionFactory;
-import com.kyang.mybatis.session.defaults.DefaultSqlSessionFactory;
+import com.kyang.mybatis.SqlSession;
+import com.kyang.mybatis.SqlSessionFactory;
+import com.kyang.mybatis.defaults.DefaultSqlSessionFactory;
 import com.kyang.mybatis.test.dao.ISchoolDao;
 import com.kyang.mybatis.test.dao.IUserDao;
 import org.junit.Test;

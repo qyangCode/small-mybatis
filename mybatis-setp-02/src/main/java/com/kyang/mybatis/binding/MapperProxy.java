@@ -1,11 +1,10 @@
 package com.kyang.mybatis.binding;
 
-import com.kyang.mybatis.session.SqlSession;
+import com.kyang.mybatis.SqlSession;
 
 import java.io.Serializable;
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
-import java.util.Map;
 
 /**
  * @ Author：wqy
